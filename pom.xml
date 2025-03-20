@@ -43,9 +43,6 @@
 	    <pluginRepository>    
 		<id>maven1</id>
 		<name>Maven.org</name>
-		<groupId>org.codehaus.mojo</groupId>
-    		<artifactId>sonar-maven-plugin</artifactId>
-   	        <version>3.0.2</version>
 		<url>http://repo1.maven.org/maven2</url>
 	    </pluginRepository>
 	</pluginRepositories>	
